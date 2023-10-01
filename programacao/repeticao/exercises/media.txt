@@ -1,0 +1,1 @@
+Algoritmo lê os valores digitados pelo usuário e quando ele digita 0 o programa encerra. Ao encerrar, var ler todos os valores digitados por ele e dividir pela quantidade de valores.

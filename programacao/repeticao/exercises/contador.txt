@@ -1,0 +1,1 @@
+Algoritmo que começa em 100 e vai até o subtraindo de 2 em 2.

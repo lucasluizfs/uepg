@@ -1,0 +1,1 @@
+Algoritmo tem a altura atual e um for que mostra o crescimento anual de 2 pessoas: Chico e Ze. A cada ano Chico cresce 0.02 cm e Ze, 0.03. O desafio está em saber em quanto tempo Ze será maior que Chico.
